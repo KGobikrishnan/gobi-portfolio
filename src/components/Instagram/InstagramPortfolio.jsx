@@ -77,7 +77,7 @@ export default function InstagramPortfolio() {
               WebkitTextFillColor: "transparent",
               letterSpacing: "-0.03em"
             }}>
-              Instagram
+              Portfolio
             </span>
             <span style={{ color: "rgba(255,255,255,0.25)", fontSize: "14px" }}>|</span>
             <span style={{ fontSize: "12px", fontWeight: 600, color: "rgba(255,255,255,0.6)" }}>
@@ -1048,7 +1048,7 @@ export default function InstagramPortfolio() {
           <a href={USER_INFO.resumeUrl} download style={{ color: "#0095f6", textDecoration: "none", fontWeight: 700 }}>Resume PDF</a>
         </div>
         <div>
-          Instagram Resume · Gobi Krishnan K · Full Stack Engineer © {new Date().getFullYear()}
+          Portfolio Resume · Gobi Krishnan K · Full Stack Engineer © {new Date().getFullYear()}
         </div>
       </footer>
 
